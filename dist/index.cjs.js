@@ -2134,17 +2134,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        items: [
-            {
-                label: "English",
-                href: "https://t.me/GameSwapGroup",
-            },
-        ],
+        href: "https://t.me/Hippolygon"
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/GameSwapFinance",
+        href: "https://twitter.com/Hippolygon",
     },
 ];
 var MENU_HEIGHT = 64;
